@@ -45,4 +45,4 @@ Then run the cells top to bottom.
 Open in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WallaceCYWong/ML_ALL_SVM_RF_NN/blob/main/ML_ALL_SVM_RF_NN.ipynb)
 
-(In Colab you'll need to upload the two CSV data files, or mount them from Google Drive.)
+
