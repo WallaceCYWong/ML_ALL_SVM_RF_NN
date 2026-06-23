@@ -7,23 +7,8 @@ Machine-learning notebook based on the dataset and methodology from:
 > *J. Chem. Inf. Model.* **2025**, *65* (21), 11804–11817.
 > https://doi.org/10.1021/acs.jcim.5c01143
 
-BibTeX:
-
-​```bibtex
-@article{AlMasri2025,
-  title     = {Combining Physics-Based Protein--DNA Energetics with Machine Learning
-               to Predict Interpretable Transcription Factor--DNA Binding},
-  author    = {Al Masri, Carmen and Yu, Jin},
-  journal   = {Journal of Chemical Information and Modeling},
-  volume    = {65},
-  number    = {21},
-  pages     = {11804--11817},
-  year      = {2025},
-  doi       = {10.1021/acs.jcim.5c01143},
-  publisher = {American Chemical Society}
-}
-​```
 Built and tested on **Python 3.11**.
+
 
 ## Contents
 
@@ -66,5 +51,25 @@ Then run the cells top to bottom.
 
 Open in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WallaceCYWong/ML_ALL_SVM_RF_NN/blob/main/ML_ALL_SVM_RF_NN.ipynb)
+
+
+## Citation
+
+BibTeX:
+
+​```bibtex
+@article{AlMasri2025,
+  title     = {Combining Physics-Based Protein--DNA Energetics with Machine Learning
+               to Predict Interpretable Transcription Factor--DNA Binding},
+  author    = {Al Masri, Carmen and Yu, Jin},
+  journal   = {Journal of Chemical Information and Modeling},
+  volume    = {65},
+  number    = {21},
+  pages     = {11804--11817},
+  year      = {2025},
+  doi       = {10.1021/acs.jcim.5c01143},
+  publisher = {American Chemical Society}
+}
+​```
 
 
