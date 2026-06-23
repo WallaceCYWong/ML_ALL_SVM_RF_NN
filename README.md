@@ -55,9 +55,6 @@ Open in Google Colab:
 
 ## Citation
 
-BibTeX:
-
-​bibtex
 @article{AlMasri2025,
   title     = {Combining Physics-Based Protein--DNA Energetics with Machine Learning
                to Predict Interpretable Transcription Factor--DNA Binding},
