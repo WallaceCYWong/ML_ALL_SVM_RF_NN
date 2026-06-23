@@ -57,7 +57,7 @@ Open in Google Colab:
 
 BibTeX:
 
-​```bibtex
+​bibtex
 @article{AlMasri2025,
   title     = {Combining Physics-Based Protein--DNA Energetics with Machine Learning
                to Predict Interpretable Transcription Factor--DNA Binding},
@@ -70,6 +70,6 @@ BibTeX:
   doi       = {10.1021/acs.jcim.5c01143},
   publisher = {American Chemical Society}
 }
-​```
+​
 
 
